@@ -59,4 +59,4 @@ router.post('/wx/msg', async c => {
 
 });
 
-app.run(8000, 'localhost');
+app.run(8002, 'localhost');
